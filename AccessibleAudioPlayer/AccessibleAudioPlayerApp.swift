@@ -2,8 +2,8 @@
 //  AccessibleAudioPlayerApp.swift
 //  AccessibleAudioPlayer
 //
-//  Created by orlande on 4/30/24.
-//
+//  Code from @multitudes:
+// https://gist.github.com/multitudes/e1af067a86fa1bceb8d19d6066bc27d0
 
 import SwiftUI
 
